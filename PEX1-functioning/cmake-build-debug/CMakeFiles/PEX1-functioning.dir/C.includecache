@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/C22Christopher.Katz/Documents/19_fall_school/CompSci210/PEX/PEX1-functioning/pex1.c
+pex1.h
+/cygdrive/c/Users/C22Christopher.Katz/Documents/19_fall_school/CompSci210/PEX/PEX1-functioning/pex1.h
+
+/cygdrive/c/Users/C22Christopher.Katz/Documents/19_fall_school/CompSci210/PEX/PEX1-functioning/pex1.h
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
