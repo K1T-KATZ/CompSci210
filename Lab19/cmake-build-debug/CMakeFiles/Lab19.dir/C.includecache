@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/C22Christopher.Katz/Documents/19_fall_school/CompSci210/Labs/Lab19/lab19functs.h
+stdio.h
+-
+string.h
+-
+
+/cygdrive/c/Users/C22Christopher.Katz/Documents/19_fall_school/CompSci210/Labs/Lab19/lab19main.c
+lab19functs.h
+/cygdrive/c/Users/C22Christopher.Katz/Documents/19_fall_school/CompSci210/Labs/Lab19/lab19functs.h
+

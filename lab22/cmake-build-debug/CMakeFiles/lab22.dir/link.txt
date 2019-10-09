@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/lab22.dir/lab22.c.o  -o lab22.exe -Wl,--out-implib,liblab22.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
